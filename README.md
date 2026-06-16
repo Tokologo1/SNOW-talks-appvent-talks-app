@@ -29,16 +29,15 @@ agy-cli-projects/
 ├── requirements.txt        # Python Dependencies
 ├── .gitignore              # Configured ignore targets for Python and Flask
 ├── README.md               # Project documentation
+├── news.txt                # Cached news text file
+├── summary.txt             # Cached news summary file
 ├── templates/
 │   └── index.html          # Semantic HTML5 frontend layout
-├── static/
-│   ├── css/
-│   │   └── style.css       # Responsive cyber-dark styling
-│   └── js/
-│       └── app.js          # DOM manipulation, feed processor & sharing client
-├── Images/                 # Media resources directory
-├── Documents/              # Text documents directory
-└── Videos/                 # Video resources directory
+└── static/
+    ├── css/
+    │   └── style.css       # Responsive cyber-dark styling
+    └── js/
+        └── app.js          # DOM manipulation, feed processor & sharing client
 ```
 
 ---
